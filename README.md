@@ -1,10 +1,8 @@
 <h1 align="center" style="color: #6A1B9A;">Manasvi G S</h1>
 
 <p align="center">
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-6A1B9A?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-6A1B9A?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-6A1B9A?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-6A1B9A?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/nhxe"><img src="https://img.shields.io/badge/GitHub-6A1B9A?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/manasvi-g-s-830502332/"><img src="https://img.shields.io/badge/LinkedIn-6A1B9A?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
