@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/-Hello,%20I'm%20Manasvi-6A1B9A?style=flat&logoColor=white" alt="Hello, I'm Manasvi">
-</p>
-
 <h1 align="center" style="color: #6A1B9A;">Manasvi G S</h1>
 
 <p align="center">
