@@ -1,6 +1,12 @@
 <h1 align="center" style="color: #6A1B9A;">Manasvi G S</h1>
 
 <p align="center">
+  <a href="https://manasvigs.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6A1B9A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/nhxe"><img src="https://img.shields.io/badge/GitHub-6A1B9A?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/manasvi-g-s-830502332/"><img src="https://img.shields.io/badge/LinkedIn-6A1B9A?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
